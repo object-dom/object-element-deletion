@@ -1,0 +1,20 @@
+{
+  "name": "object-element-deletion",
+  "repo": "shallker/object-element-deletion",
+  "description": "ObjectElement deletion",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "object-element/object-element": "*"
+  },
+  "development": {
+    "shallker/simple-test": "*", 
+    "shallker/dom-helper": "*" 
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/object-element-deletion.js"
+  ]
+}
