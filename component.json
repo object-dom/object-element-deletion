@@ -1,11 +1,11 @@
 {
   "name": "object-element-deletion",
-  "repo": "shallker/object-element-deletion",
+  "repo": "object-dom/object-element-deletion",
   "description": "ObjectElement deletion",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "object-element/object-element": "*"
+    "object-dom/object-element": "*"
   },
   "development": {
     "shallker/simple-test": "*", 
